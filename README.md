@@ -1,4 +1,4 @@
-# CrptoCOINS tracker
+# CryptoCOINS tracker
 # by Upasana Chakraborty
 # Deploy link : https://cryptocoins-ten.vercel.app/
 
